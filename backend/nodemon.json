@@ -1,0 +1,4 @@
+{
+  "ignore": ["node_modules/*", ".git", "*.log"],
+  "watch": ["*.js", "routes", "controllers", "models"]
+}
