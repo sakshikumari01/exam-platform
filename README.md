@@ -11,7 +11,7 @@
 
 *Secure exam delivery with facial recognition, ID verification, and real-time anti-cheating enforcement — built end-to-end on the MERN stack.*
 
-[Report Bug](../../issues) · [GitHub Repo](../../)
+[🚀 Live Demo](https://exam-platform-yj8s.vercel.app) · [Report Bug](../../issues) · [GitHub Repo](../../)
 
 </div>
 
