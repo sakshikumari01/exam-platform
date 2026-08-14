@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🎓 ProctorEd
+
 ### Full Stack AI-Proctored Online Exam Platform
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,7 +22,7 @@
 
 **ProctorEd** is a production-style full stack examination platform that replicates the core capabilities of enterprise proctoring tools like Mettl and ProctorU. It manages the complete exam lifecycle — identity verification, live monitoring, auto-grading, and result delivery — while enforcing academic integrity through camera-based and browser-level checks.
 
-The platform is built around **three isolated roles** (Admin, Teacher, Student), each with its own dashboard, secured by a JWT-authenticated REST API and role-based route guards on both client and server.
+The platform is built around **three isolated roles** (Admin, Teacher, Student), each with its own dashboard, secured by a JWT-authenticated REST API and role-based route guards on both client and server...
 
 ---
 
