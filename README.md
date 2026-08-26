@@ -298,7 +298,6 @@ npm run dev
 ---
 
 ## 👩‍💻 Author
-Prem Kumar Gupta - Full Stack Developer 
 
 Sakshi Kumari - Full Stack Developer 
 
