@@ -299,9 +299,9 @@ npm run dev
 
 ## 👩‍💻 Author
 
-Prem Kumar Gupta - Full Stack Developer 
+Prem_Kumar_Gupta - Full Stack Developer 
 
-Sakshi Kumari - Full Stack Developer 
+Sakshi_Kumari - Full Stack Developer 
 
 Designed and built independently as a full-stack project to explore secure authentication, role-based access control, and browser-based proctoring mechanics end-to-end.
 
